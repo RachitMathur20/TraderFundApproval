@@ -7,10 +7,10 @@ Team has realized that some pieces of approval can be done parallel which will s
 So a small component need to be designed which can move request workflow in parallel wherever possible per configured rule.
 
 Existing Rule:
- 
+ ![image](https://user-images.githubusercontent.com/43668132/47264474-984d8400-d535-11e8-9580-7fb0e2475e73.png)
 
 Proposed Rule:
- 
+ ![image](https://user-images.githubusercontent.com/43668132/47264478-a8fdfa00-d535-11e8-8831-10e9fedad0d5.png)
 
 If you observe the proposed flow, research analyst approval and fund manager approval can be done in parallel which was not possible earlier.
 
